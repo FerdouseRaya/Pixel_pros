@@ -1,3 +1,4 @@
+
 # Local Dining Guide
 
 <p>Web Based Dining Information Solution</p><br>
@@ -62,6 +63,34 @@ software solution strives to bridge the gap between diners and local eateries.</
      </li> 
 </ol>
 
+
+--4
+# Pixel_pros
+<h1>Usage</h1>
+    <ul>
+        <li><h4>Search for Restaurants:</h4> Use the search functionality to find dining options 
+            based on your preferences.</li>
+        <li><h4>Explore Restaurant Profiles:</h4>Click on a restaurant to view its detailed profile, 
+            including menu items and reviews.</li>
+        <li><h4>Read and Write Reviews:</h4>Share your dining experiences by leaving reviews 
+            and ratings for restaurants.</li>
+        <li><h4>Save Favourites:</h4>Create an account to save your favourite restaurants and 
+            receive personalized recommendations.</li>
+        <li><h4>Get Directions:</h4>Click on the map integration to get directions to the selected 
+            restaurant.</li>
+    </ul>
+    > Thank you to the following contributors who have helped to improve this project:
+    
+  | Name | Email | Phone |
+  | --- | --- | --- |
+  | Afsana | afsana@bjitacademy.com | +8801999999999 |
+  | Afsana | afsana@bjitacademy.com | +8801999999999 |
+  | Afsana | afsana@bjitacademy.com | +8801999999999 |
+  | Afsana | afsana@bjitacademy.com | +8801999999999 |
+  | Afsana | afsana@bjitacademy.com | +8801999999999 |
+
+
+
 --5
 # Pixel_pros
 <h1>Contact Information</h1>
@@ -73,4 +102,5 @@ software solution strives to bridge the gap between diners and local eateries.</
     <p><b>Instagram:</b> @localdiningguide</p><br>
 <p>We hope you enjoy using Local Dining Guide to discover fantastic dining options in your 
     area! Bon appétit!</p><i class="fa fa-cutlery" aria-hidden="true"></i>
+
 
