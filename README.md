@@ -19,6 +19,8 @@ Dining Guide has got you covered.</p>
 
 </head>
 <body>
+ <center><img src="https://img.freepik.com/free-vector/flat-design-food-facebook-cover_23-2149108159.jpg?w=2000" alt="Banner Image" width="10%" height="10%">
+ </center>
  <h1>Table of Contents</h1> 
  <ul>
    <li>Introduction</li>
