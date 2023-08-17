@@ -9,6 +9,40 @@ for new culinary experiences or a traveller seeking the best dining spots in tow
 Dining Guide has got you covered.</p>
 
 
+
+--1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+ <h1>Table of Contents</h1> 
+ <ul>
+   <li>Introduction</li>
+    <li>Development Technology</li>
+     <li>Features</li>
+      <li>Getting Started</li>
+      <li>Usage</li>
+      <li>Contributors</li>
+      <li>Contact Information</li>
+ </ul>  
+
+ <h2>Introduction</h2>
+ <p>Local Dining Guide is a user-friendly platform that aims to connect users with local dining<br> 
+options. It provides a rich and intuitive interface to search for restaurants, view their menus,<br> 
+read reviews, and get directions. With a focus on enhancing the dining experience, this <br>
+software solution strives to bridge the gap between diners and local eateries.</p>
+
+
+<img src="https://img.freepik.com/free-vector/flat-design-food-facebook-cover_23-2149108159.jpg?w=2000" alt="Banner Image" width="100%" height="auto">
+
+
+<h3>License</h3>
+<i>This project is licensed under the <a href="https://www.bjitacademy.com/">MIT License.</a></i>
+</body>
+</html>
+
 --3
 ### Getting Started 
 <i>Follow these steps to get Local Dining Guide up and running on your local machine.</i>
@@ -39,3 +73,4 @@ Dining Guide has got you covered.</p>
     <p><b>Instagram:</b> @localdiningguide</p><br>
 <p>We hope you enjoy using Local Dining Guide to discover fantastic dining options in your 
     area! Bon appétit!</p><i class="fa fa-cutlery" aria-hidden="true"></i>
+
